@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+disablePathToLower = true
+languageCode = "en-us"
+title = "The Adventures of Arran Short"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
