@@ -15,12 +15,12 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "0.83.1"
-          # extended: true
+          extended: true
 
       - name: Build
         # remove --minify tag if you do not need it
         # docs: https://gohugo.io/hugo-pipes/minification/
-        run: hugo --minify --theme=newsroom
+        run: hugo --minify --theme=newsroomgi
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
