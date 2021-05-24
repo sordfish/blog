@@ -31,7 +31,6 @@ jobs:
           #   keep_files: true
           user_name: sordfish
           user_email: sordfish2050@gmail.com
-          publish_branch: master
         #   cname: example.com
 
         
