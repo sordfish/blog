@@ -4,7 +4,7 @@ categories = ["blog"]
 date = 2021-05-24T00:00:00Z
 description = ""
 draft = false
-image = "images/hello.jpg"
+image = "https://images.unsplash.com/photo-1500576992153-0271099def59?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=vladislav-klapin-SymZoeE8quA-unsplash.jpg&w=640"
 slug = "goodbye-ghost-hello-hugo"
 tags = ["blog"]
 title = "Goodbye Ghost, Hello Hugo"
