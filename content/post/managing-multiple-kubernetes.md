@@ -5,7 +5,7 @@ description = ""
 draft = false
 slug = "managing-multiple-kubernetes"
 title = "Managing Multiple Kubernetes Clusters easily with konfig and kubectx"
-
+image = "https://images.unsplash.com/photo-1506809597993-2bfd54686d37?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1173&q=80"
 +++
 
 
